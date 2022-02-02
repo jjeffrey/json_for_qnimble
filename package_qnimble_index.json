@@ -1,0 +1,266 @@
+{
+    "packages": [
+        {
+            "name": "qnimble",
+            "maintainer": "qNimble",
+            "websiteURL": "https://qnimble.com",
+            "email": "info@qnimble.com",
+            "tools": [
+                {
+                    "name": "qbossa",
+                    "version": "1.9.5",
+                    "systems": [
+                        {
+                            "size": 543947,
+                            "checksum": "SHA-256:d08bcdb5122e6398e1d2470ee3d4567b69fc7c214b9cab3182a24b5a2eea2a1c",
+                            "host": "x86_64-linux-gnu",
+                            "archiveFileName": "qbossac-1.9.5-linux-amd64.tar.bz2",
+                            "url": "https://github.com/qnimble/BOSSA/releases/download/1.9.5/qbossac-1.9.5-linux-amd64.tar.bz2"
+                        },
+                        {
+                            "size": 534673,
+                            "checksum": "SHA-256:e4b4f8e2cc0c2ee9bb283192d4725963ca0e322fb03fab4e855b21ef8b411945",
+                            "host": "i686-linux-gnu",
+                            "archiveFileName": "qbossac-1.9.5-linux-i686.tar.bz2",
+                            "url": "https://github.com/qnimble/BOSSA/releases/download/1.9.5/qbossac-1.9.5-linux-i686.tar.bz2"
+                        },
+                        {
+                            "size": 47204,
+                            "checksum": "SHA-256:845edbfa5831f26ec55c96ca64f8952e1927bfcb053116f1e9f4560ca1650685",
+                            "host": "x86_64-apple-darwin14",
+                            "archiveFileName": "qbossac-1.9.5-mac.tar.bz2",
+                            "url": "https://github.com/qnimble/BOSSA/releases/download/1.9.5/qbossac-1.9.5-mac.tar.bz2"
+                        },
+                        {
+                            "size": 1287518,
+                            "checksum": "SHA-256:5239a66430c39c7eee43d0a7440d4142c482943f04595d07e748abd9522b43cd",
+                            "host": "i686-mingw32",
+                            "archiveFileName": "qbossac-1.9.5-win32.zip",
+                            "url": "https://github.com/qnimble/BOSSA/releases/download/1.9.5/qbossac-1.9.5-win32.zip"
+                        },
+                        {
+                            "size": 1246994,
+                            "checksum": "SHA-256:0ec84e9c4d411789d38ae9c59416dc4b8c9c698153185c148ca195911b271252",
+                            "host": "x86_64-mingw64",
+                            "archiveFileName": "qbossac-1.9.5-win64.zip",
+                            "url": "https://github.com/qnimble/BOSSA/releases/download/1.9.5/qbossac-1.9.5-win64.zip"
+                        }
+                    ]
+                },
+                {
+                    "name": "precompile_helper",
+                    "version": "0.1",
+                    "systems": [
+                        {
+                            "size": 6672,
+                            "checksum": "SHA-256:19ceb25f22c7b667e2608fdbbe9329227b76dba8db6e683fcbe6b7ff440dbe7c",
+                            "host": "x86_64-linux-gnu",
+                            "archiveFileName": "precompile_helper-0.1-linux-amd64.tar.bz2",
+                            "url": "https://github.com/qnimble/precompile_helper/releases/download/0.1/precompile_helper-0.1-linux-amd64.tar.bz2"
+                        },
+                        {
+                            "size": 6677,
+                            "checksum": "SHA-256:1bf12547a26de7801b6ce69cf1990bc3220225a8ac97e2b9a3b0ebcb9b924bc9",
+                            "host": "i686-linux-gnu",
+                            "archiveFileName": "precompile_helper-0.1-linux-i686.tar.bz2",
+                            "url": "https://github.com/qnimble/precompile_helper/releases/download/0.1/precompile_helper-0.1-linux-i686.tar.bz2"
+                        },
+                        {
+                            "size": 5283,
+                            "checksum": "SHA-256:cedc887aaf93772902e27e18d82ea83d600f189b92ce90d15caf96ea995719c7",
+                            "host": "x86_64-apple-darwin14",
+                            "archiveFileName": "precompile_helper-0.1-mac.tar.bz2",
+                            "url": "https://github.com/qnimble/precompile_helper/releases/download/0.1/precompile_helper-0.1-mac.tar.bz2"
+                        },
+                        {
+                            "size": 100105,
+                            "checksum": "SHA-256:2dafd7239663980c904abfbaa0a544851df716c63ddf0d8272388ba5add3baf9",
+                            "host": "i686-mingw32",
+                            "archiveFileName": "precompile_helper-0.1-win32.zip",
+                            "url": "https://github.com/qnimble/precompile_helper/releases/download/0.1/precompile_helper-0.1-win32.zip"
+                        },
+                        {
+                            "size": 104739,
+                            "checksum": "SHA-256:ce1172fcca3fd2852ff7c5c642f37a918114e7f57e87a33ca80d363dead49d58",
+                            "host": "x86_64-mingw64",
+                            "archiveFileName": "precompile_helper-0.1-win64.zip",
+                            "url": "https://github.com/qnimble/precompile_helper/releases/download/0.1/precompile_helper-0.1-win64.zip"
+                        }
+                    ]
+                },
+                {
+                    "name": "quarto-discovery",
+                    "version": "v2.3.0",
+                    "systems": [
+                        {
+                            "size": 1655398,
+                            "checksum": "SHA-256:80a1e02beee82dd63a56b2dbe168f3b1baeca8612ce1356400f60a7ffe8aeadd",
+                            "host": "x86_64-linux-gnu",
+                            "archiveFileName": "quarto-discovery-v2.3.0-linux-amd64.tar.bz2",
+                            "url": "https://github.com/qnimble/quarto-discovery/releases/download/v2.3.0/quarto-discovery-v2.3.0-linux-amd64.tar.bz2"
+                        },
+                        {
+                            "size": 1655298,
+                            "checksum": "SHA-256:e5a78733c76cfc1447a7961cae6369d246e5f62cecc7dc0104b5c402b6874962",
+                            "host": "i686-linux-gnu",
+                            "archiveFileName": "quarto-discovery-v2.3.0-linux-i686.tar.bz2",
+                            "url": "https://github.com/qnimble/quarto-discovery/releases/download/v2.3.0/quarto-discovery-v2.3.0-linux-i686.tar.bz2"
+                        },
+                        {
+                            "size": 1835613,
+                            "checksum": "SHA-256:df26bd4fa4ed21b3b202970157469eb5a5e66e6ac2166ce6e951d8e73ba89f94",
+                            "host": "x86_64-apple-darwin14",
+                            "archiveFileName": "quarto-discovery-v2.3.0-mac.tar.bz2",
+                            "url": "https://github.com/qnimble/quarto-discovery/releases/download/v2.3.0/quarto-discovery-v2.3.0-mac.tar.bz2"
+                        },
+                        {
+                            "size": 1651458,
+                            "checksum": "SHA-256:bb158938e71a09746dd7313e9891a224b60cf7b7c105cb2c5eed838c6dd1b715",
+                            "host": "i686-mingw32",
+                            "archiveFileName": "quarto-discovery-v2.3.0-win32.zip",
+                            "url": "https://github.com/qnimble/quarto-discovery/releases/download/v2.3.0/quarto-discovery-v2.3.0-win32.zip"
+                        },
+                        {
+                            "size": 1708103,
+                            "checksum": "SHA-256:340c91db914bb7ba0fcdfbae3f359792e91cd02c1cb84027722df24cd6ea6579",
+                            "host": "x86_64-mingw64",
+                            "archiveFileName": "quarto-discovery-v2.3.0-win64.zip",
+                            "url": "https://github.com/qnimble/quarto-discovery/releases/download/v2.3.0/quarto-discovery-v2.3.0-win64.zip"
+                        }
+                    ]
+                },
+                {
+                    "name": "CMSIS",
+                    "version": "5.4.0",
+                    "systems": [
+                        {
+                            "host": "i686-mingw32",
+                            "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
+                            "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
+                            "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
+                            "size": "153772853"
+                        },
+                        {
+                            "host": "x86_64-apple-darwin",
+                            "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
+                            "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
+                            "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
+                            "size": "153772853"
+                        },
+                        {
+                            "host": "x86_64-pc-linux-gnu",
+                            "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
+                            "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
+                            "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
+                            "size": "153772853"
+                        },
+                        {
+                            "host": "i686-pc-linux-gnu",
+                            "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
+                            "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
+                            "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
+                            "size": "153772853"
+                        },
+                        {
+                            "host": "arm-linux-gnueabihf",
+                            "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
+                            "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
+                            "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
+                            "size": "153772853"
+                        },
+                        {
+                            "host": "aarch64-linux-gnu",
+                            "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
+                            "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
+                            "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
+                            "size": "153772853"
+                        },
+                        {
+                            "host": "all",
+                            "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
+                            "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
+                            "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
+                            "size": "153772853"
+                        }
+                    ]
+                },
+                {
+                    "name": "arm-none-eabi-gcc",
+                    "version": "9-2019q4",
+                    "systems": [
+                        {
+                            "host": "aarch64-linux-gnu",
+                            "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/9-2019q4/gcc-arm-none-eabi-9-2019-q4-major-aarch64-linux.tar.bz2",
+                            "archiveFileName": "gcc-arm-none-eabi-9-2019-q4-major-aarch64-linux.tar.bz2",
+                            "checksum": "MD5:0dfa059aae18fcf7d842e30c525076a4",
+                            "size": "128670769"
+                        },
+                        {
+                            "host": "i686-mingw32",
+                            "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/9-2019q4/gcc-arm-none-eabi-9-2019-q4-major-win32.zip",
+                            "archiveFileName": "gcc-arm-none-eabi-9-2019-q4-major-win32.zip",
+                            "checksum": "MD5:82525522fefbde0b7811263ee8172b10",
+                            "size": "150825950"
+                        },
+                        {
+                            "host": "x86_64-apple-darwin",
+                            "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/9-2019q4/gcc-arm-none-eabi-9-2019-q4-major-mac.tar.bz2",
+                            "archiveFileName": "gcc-arm-none-eabi-9-2019-q4-major-mac.tar.bz2",
+                            "checksum": "MD5:241b64f0578db2cf146034fc5bcee3d4",
+                            "size": "116770520"
+                        },
+                        {
+                            "host": "x86_64-pc-linux-gnu",
+                            "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/9-2019q4/gcc-arm-none-eabi-9-2019-q4-major-x86_64-linux.tar.bz2",
+                            "archiveFileName": "gcc-arm-none-eabi-9-2019-q4-major-x86_64-linux.tar.bz2",
+                            "checksum": "MD5:fe0029de4f4ec43cf7008944e34ff8cc",
+                            "size": "116802378"
+                        }
+                    ]
+                }
+            ],
+            "platforms": [
+                {
+                    "boards": [
+                        {
+                            "name": "qNimble Quarto"
+                        }
+                    ],
+                    "architecture": "imxrt",
+                    "name": "qNimble iMXRT Boards",
+                    "category": "qNimble",
+                    "version": "1.0.0",
+                    "archiveFileName": "qNimble_iMXRT-1.0.0.tar.bz2",
+                    "size": 329488,
+                    "checksum": "SHA-256:3b0f0c80b1bcfc59cda0b30a34b803b18ccdc537758d625c5e10bb60d6fd76bd",
+                    "help": {
+                        "online": "https://qnimble.com/Quarto"
+                    },
+                    "url": "https://github.com/qnimble/arduino_boards/releases/download/1.0.0/qNimble_iMXRT-1.0.0.tar.bz2",
+                    "toolsDependencies": [
+                        {
+                            "packager": "qnimble",
+                            "name": "CMSIS",
+                            "version": "5.4.0"
+                        },
+                        {
+                            "packager": "qnimble",
+                            "name": "qbossa",
+                            "version": "1.9.5"
+                        },
+                        {
+                            "packager": "qnimble",
+                            "name": "arm-none-eabi-gcc",
+                            "version": "9-2019q4"
+                        },
+                        {
+                            "packager": "qnimble",
+                            "name": "quarto-discovery",
+                            "version": "v2.3.0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
